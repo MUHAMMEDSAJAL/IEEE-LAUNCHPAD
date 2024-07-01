@@ -3,6 +3,8 @@
 ### About Me
 
 A recent BTech CSE graduate with a robust foundation in C, Python, JS. I design efficient algorithms and build dynamic web apps, tackling complex problems and delivering impactful solutions. Outside of academics, I enjoy reading, games, sports and movies. Eager to contribute meaningfully to the tech industry and apply my skills!
+Github_id =https://github.com/MUHAMMEDSAJAL
+LinkedIn_id = inkedin.com/in/muhammed-sajal-
 
 ## Portfolio Highlights
 
