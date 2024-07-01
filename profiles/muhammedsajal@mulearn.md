@@ -2,9 +2,14 @@
 
 ### About Me
 
-A recent BTech CSE graduate with a robust foundation in C, Python, JS. I design efficient algorithms and build dynamic web apps, tackling complex problems and delivering impactful solutions. Outside of academics, I enjoy reading, games, sports and movies. Eager to contribute meaningfully to the tech industry and apply my skills!
-Github_id =https://github.com/MUHAMMEDSAJAL
-LinkedIn_id = inkedin.com/in/muhammed-sajal-
+I'm Sajal, a passionate Computer Science student always up for new challenges and learning opportunities. I believe in applying knowledge to real-world scenarios with enthusiasm and a drive for continuous growth. With a knack for problem-solving and effective communication, I thrive in team environments and am always eager to contribute to exciting projects.
+
+I possess a good grasp of the basics of programming languages such as Python and C. I'm constantly seeking opportunities for professional development, driven by my passion for growth in my field. I firmly believe that my enthusiasm and commitment render me an invaluable addition to any project or team.
+
+When I'm not coding, you'll find me immersed in my hobbies, which include reading, sports, and exploring new technologies. I'm also multilingual, fluent in English, Malayalam, and Hindi, which adds versatility to my communication skills. Feel free to connect with me on LinkedIn or check out my GitHub profile to explore more about my journey and projects. Looking forward to exciting opportunities ahead!
+Checkout my github profile : https://github.com/MUHAMMEDSAJAL
+Checkout my linkedln profile :  linkedin.com/in/muhammed-sajal-
+
 
 ## Portfolio Highlights
 
