@@ -1,156 +1,86 @@
-# IEEE LAUNCHPAD Job Fair
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey, I'm Sajal. </span> </h1>
 
 
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Software+Developer+and+Engineer;" height="40"/>
 
-
-
-
-
-![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
-
-
-
-
-
-
-
-<div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
+<div>
+<a href="mailto: muhammedsajal7994@gmail.com">
+<img src="https://img.shields.io/badge/-hi%40muhammedsajal7994@gmail.com-7B83EB?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>  <a  href="https://www.instagram.com/muhd_sajal/">   <img src="https://img.shields.io/badge/@muhd_sajal_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/muhammed-sajal-24b13b1bb/"><img src="https://img.shields.io/badge/Sajal-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 </div>
 
-#
+### Current Status : 📡
 
+- 💼 Currently I'm pursuing BTech in <strong>Computer Science & Engineering</strong>.
+- 🌱 I’m currently learning <strong>JavaScript</strong> and <strong>Python</strong>
+- 🤔 My career interests are with <strong>Software Development</strong>
+- 🔍 I’m looking for career opportunities in <strong>Startups</strong> and <strong>MNC's</strong>
 
+### Tools I work upon : 🛠
+<img src="https://img.shields.io/badge/Java%20-%23E00033.svg?&style=for-the-badge&logo=Java&logoColor=white"><img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/HTML%20-%2300599C.svg?&style=for-the-badge&logo=HTML&logoColor=white"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"><img src="https://img.shields.io/badge/C%20-%23777BB4.svg?&style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/Mysql%20-%2347A248svg?&style=for-the-badge&logo=Mysql&logoColor=white"><img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
 
 
-<div align="center">
+### About Me
 
+>I'm Sajal, a passionate Computer Science student always up for new challenges and learning opportunities. I believe in applying knowledge to real-world scenarios with enthusiasm and a drive for continuous growth. With a knack for problem-solving and effective communication, I thrive in team environments and am always eager to contribute to exciting projects.
+I possess a good grasp of the basics of programming languages such as Python,and C .I'm constantly seeking opportunities for professional development, driven by my passion for growth in my field. I firmly believe that my enthusiasm and commitment render me an invaluable addition to any project or team.
+When I'm not coding, you'll find me immersed in my hobbies, which include reading, sports, and exploring new technologies. I'm also multilingual, fluent in English, Malayalam, and Hindi, which adds versatility to my communication skills.Feel free to connect with me on LinkedIn or check out my GitHub profile to explore more about my journey and projects.Looking forward to exciting opportunities ahead!  
+Checkout my github profile : https://github.com/MUHAMMEDSAJAL   
+Checkout my linkedln profile :  [linkedin.com/in/muhammed-sajal-](https://www.linkedin.com/in/muhammed-sajal-/)
 
 
 
-# How to Participate
-[![Watch the video](https://i.ytimg.com/vi/XBcJKtRCbu4/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4IgALQBYoCDAgAEAEYZCBkKGQwDw==&rs=AOn4CLBmBH9zsXdht8RTDm4a5l2ZSM7p9g)](https://youtu.be/XBcJKtRCbu4?si=ggG3c0Q3xRfnVa1H)
+## Portfolio Highlights
 
-> **Watch the onboarding video-👆**
+### My Projects
 
-## Step 1:
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **[FOSSFOLIO](https://github.com/MUHAMMEDSAJAL/fossfolio)**  | FossFolio is an open source web application for people to Find, Host and Manage Hackathons.                                             | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/MUHAMMEDSAJAL/fossfolio)                   |
 
+#### Leadership and Influence:
 
+- I exhibit leadership and influence in my domain through concrete experiences. As Regional Coordinator for the Energy Cell in NSS Ernakulam, I organized initiatives promoting sustainable energy practices, coordinating teams and engaging stakeholders effectively. My participation in the Amazon ML Summer School, selected from a competitive pool, allowed me to contribute significantly to discussions and projects in machine learning. Additionally, my work on FOSSFOLIO, an event management app using TypeScript and Next.js, showcases my leadership in applying advanced technologies to practical solutions. These experiences highlight my ability to lead and influence positively in technical contexts.
 
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
+#### Career Plan:
 
+- Driven to make a positive impact, my career plan focuses on gaining experience in impactful projects through continuous learning and skill development. I actively seek opportunities to contribute to diverse teams tackling real-world challenges with emerging technologies.  My ultimate goal is to leverage innovation for meaningful societal solutions, fostering a fulfilling career in the process.
 
+#### Thoughts on Kerala's Tech Ecosystem:
 
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
+- Kerala has great potential to excel in tech startups. With many skilled graduates, like myself with a BTech in Computer Science, the state can support innovation through more tech hubs and parks. Government incentives, mentorship programs, and improved digital infrastructure are key. My projects, like the FOSSFOLIO event app and LEXISCAN dyslexia tool, show what's possible. Promoting events like hackathons and tech conferences will further boost Kerala's startup ecosystem.
 
-#
+#### History of Open Source Contributions:
 
-## Step 2:
+- Eager to contribute to open-source, I value its collaborative spirit and role in innovation. I plan to engage with projects aligning with my skills, offering code contributions, bug reports, or discussion participation. This will enhance my expertise while giving back to the community that fosters my growth.
 
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
+#### History of Community Engagement:
 
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
+-  I served as Regional Coordinator for the Energy Cell in NSS Ernakulam (2022-2023), promoting sustainable energy practices. I attended the Amazon ML Summer School in 2023, collaborating with peers and experts in machine learning. My projects, like FOSSFOLIO (an event management app) and LEXISCAN (a dyslexia detection tool), demonstrate my commitment to using technology for societal benefit. These experiences highlight my active community engagement and the positive impact of technology.
 
-</div>
 
-<div align="center">
+#### Highly Used Software Tools:
 
-## Step 3:
+- I have developed and contributed to widely used software tools in the developer community, including:
 
-</div>
+FOSSFOLIO: An event management app utilizing TypeScript, Next.js, and Nest.js, with features like role-based access control, QR code ticketing, and integration with AWS S3 and Stripe.
+These tools have been adopted by users beyond contributors, demonstrating their practical utility and impact in real-world applications.
 
+#### Competitive Website Profiles:
 
-#### 🛠️ Craft Your Digital Identity!
+- I actively participate on competitive platforms such as HackerRank, Leetcode , where I engage in coding challenges to enhance my problem-solving skills. My GitHub profile showcases my projects and contributions to open-source software, highlighting my technical expertise and collaborative spirit. Additionally, on LinkedIn, I share insights into technology trends and connect with professionals in the industry, fostering a network of like-minded individuals. These profiles reflect my commitment to continuous learning and active engagement within the developer community.
 
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
 
-#### 🍴 Fork It!
 
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
 
-#### 📄 Name Your File!
 
-Craft a new markdown file inside the `/profiles` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
 
-#### ✍️ Fill It Out!
 
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
 
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
-
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #ieee-launchpad-announcment 
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🤖 #ieee-lp-introduction 
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
-
-#### 🚀 #ieee-lp-task-dropbox
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
-</div>
-
-
-</div>
-
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]  
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
 
 
 
 ---
+
+
+![](https://hit.yhype.me/github/profile?user_id=64391274)
